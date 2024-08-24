@@ -73,6 +73,7 @@ The conversion of `Sign language` to Spoken Language.
 https://user-images.githubusercontent.com/69314264/168775253-93a68a4c-8a22-4475-81f3-37393add6653.mp4
 
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muqtasid5266@gmail.com)
 
 
 
